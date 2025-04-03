@@ -13,3 +13,4 @@ public class TheForgottenTrialEditorTarget : TargetRules
 		ExtraModuleNames.Add("TheForgottenTrial");
 	}
 }
+
