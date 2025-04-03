@@ -76,5 +76,5 @@ All proprietary Unreal Engine assets, third-party tools, and AI systems remain u
 ## 🙏 Special Thanks
 
 - Epic Games Marketplace Creators  
-- OpenAI + iamai-core for prototype narrative assistance  
+- OpenAI + ChatGPT for prototype narrative assistance  
 - Unreal Engine Documentation & Developer Community  
